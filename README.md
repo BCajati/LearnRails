@@ -3,9 +3,9 @@ Initial Rails code
 
 Testing Revert Command
 
-Test 123
+Test 123456
 
-Test ABC
+Test ABCdef
 
 Test XYZ
 
